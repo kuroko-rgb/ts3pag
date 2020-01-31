@@ -9,8 +9,8 @@ $ts3_username = "serveradmin";
 $ts3_password = "l0FipSps";
 $ts3_nick = "Channel Creator V2";
 
-$cpid = 68; //SPACER ID (the root) the created channels will be collected as sub channel there
-$chadmin_group_id = 5; // Channel Admin Group ID Default 5
+$cpid = 800; //SPACER ID (the root) the created channels will be collected as sub channel there
+$chadmin_group_id = 22; // Channel Admin Group ID Default 5
 
 $channel_description = "";
 $channel_topic = "CHADD | WebUI @ ".date("H:i:s")." - ".date("d.m.Y");
