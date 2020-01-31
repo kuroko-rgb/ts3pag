@@ -15,7 +15,7 @@ $chadmin_group_id = 22; // Channel Admin Group ID Default 5
 $channel_description = "";
 $channel_topic = "CHADD | WebUI @ ".date("H:i:s")." - ".date("d.m.Y");
 $server_conn_url = "ts3server://:9987";
-$imprint_url = "https://loscalvos.azurewebsites.net/";
+$imprint_url = "https://loscalvos.azurewebsites.net";
 
 //BADWORDS will be replaced with XXXX
 $badwords = array("example", "example");
