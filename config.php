@@ -21,5 +21,5 @@ $imprint_url = "https://loscalvos.azurewebsites.net/";
 $badwords = array("example", "example");
 
 // Allowed groups whitelist
-$allowed_groups = array();
+$allowed_groups = array(6);
 ?>
